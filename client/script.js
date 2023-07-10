@@ -7,8 +7,7 @@
 // PROBLEM 1
 /*
     In the index.html file in this folder there is a button with an id of 'say-hello-button'!
-   
-
+npm 
     Use querySelector to select that button and save it to a variable called sayHelloButton
 */
 
